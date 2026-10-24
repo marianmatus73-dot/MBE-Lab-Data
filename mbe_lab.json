@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "generated_at": "",
+  "mode": "INDEPENDENT_CHALLENGER",
+  "summary": {
+    "history_matches": 0,
+    "history_with_xg": 0,
+    "upcoming_events": 0,
+    "model_ready_events": 0,
+    "candidates": 0,
+    "observations": 0
+  },
+  "decisions": []
+}
